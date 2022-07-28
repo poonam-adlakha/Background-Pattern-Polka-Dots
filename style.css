@@ -1,0 +1,6 @@
+html {
+    background: radial-gradient(#610C63 10%,
+            transparent 10%), radial-gradient(#EE81B3 10%, transparent 10%),radial-gradient(#37E2D5 10%, transparent 10%) #FFE6E6 ;
+    background-size: 100px 100px;
+    background-position: 0 0, 25px 25px, 50px 50px;
+}
