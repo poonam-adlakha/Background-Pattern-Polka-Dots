@@ -1,4 +1,9 @@
-# Background-Pattern-Polka-Dots
+Create Background-Pattern Polka Dots using:
+ <ul>
+ <li>Single Div </li>
+ <li>CSS Gradients </li>
+ </ul> 
+ 
 
 [Website Link](https://css-background-pattern.netlify.app/)
 
