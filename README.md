@@ -1,6 +1,6 @@
 Create Background-Pattern Polka Dots using:
  <ul>
- <li>Single Div </li>
+ <li>No Div </li>
  <li>CSS Gradients </li>
  </ul> 
  
